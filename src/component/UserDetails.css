@@ -1,0 +1,40 @@
+.userTable {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  width: 100%;
+}
+
+.userTable thead tr {
+  background-color: #1b1950;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.userTable th,
+.userTable td {
+  padding: 12px 15px;
+}
+.userTable tbody tr {
+  color: #1b1950;
+  font-weight: bold;
+}
+.userTable tbody tr:hover {
+  background-color: #1b1950;
+  color: white;
+}
+.users__header {
+  color: white;
+}
+
+.users__body {
+  border: 1px solid lightgray;
+  padding: 20px;
+  background-color: #ffffffb5;
+  color: #1b1950;
+}
+
+.users {
+  padding: 2%;
+}
